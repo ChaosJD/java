@@ -30,12 +30,6 @@ class Person{
   
   }
   
- public int hashCode(){
-   int result = name.hashCode(); // all attributes
-   resultt = 31 * result + ageM; // Primzahl, *31  schell zu implementieren.
-   return result;
- }
-  
 }
 
   
