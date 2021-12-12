@@ -24,7 +24,7 @@ public class Player {
   }
 }
   
-Script example:
+//Script example:
 //Muster zur Berechnung des Hashwertes, falls mehrere Attribute h1, h2, h3, ... ein Objekt identifizieren
   
 @Override public int hashCode(){
