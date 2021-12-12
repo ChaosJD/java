@@ -22,6 +22,7 @@ public class Player {
     
     return result;
   }
+}
   
 Script example:
 //Muster zur Berechnung des Hashwertes, falls mehrere Attribute h1, h2, h3, ... ein Objekt identifizieren
